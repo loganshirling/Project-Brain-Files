@@ -81,13 +81,6 @@ Optional:
 - LOG: include a small starter section for “Open loops”.
 - REF: only if provided; otherwise leave placeholder headings.
 
-## Export behavior (preferred)
-After confirming the project plan, generate downloadable markdown files rather than printing them inline:
-- Create one .md file per Brain File using the canonical filenames.
-- Also generate a single ZIP containing all files, named: <ProjectName>__BrainFiles.zip
-- Then provide the download(s) to the user.
-
-If file export is not available in this environment, fall back to printing each file in its own fenced code block.
 
 ## Do NOT
 - Do not invent personal data or sensitive info.
